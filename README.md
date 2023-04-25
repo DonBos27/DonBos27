@@ -1,8 +1,15 @@
-# Hi there, I’m Don Bosenga 👋
+# About Me
 
-**`I'm a student at the University of Johannesburg with aspirations to become a software developer.`**
+## Hi there, I’m Don Bosenga 👋
 
+**`Passionate software developer with a keen eye for detail and a love for problem-solving. Experienced in both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills.`**
 
+- 👀 I’m interested in web development, data science, and machine learning
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on any project that will help me grow as a developer
+- ⚡ Fun fact: I love playing chess and I'm a huge fan of the NBA
+
+## 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/don-bosenga-7b0b3a1b3/)
 
 <!-- Social icons section -->
 
@@ -19,25 +26,5 @@
         <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://dev.to/denvercoder1">
-        <img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to"src="https://i.imgur.com/mVm29vK.png">
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://ko-fi.com/jlawrence">
-        <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/>   
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="http://eyl327.mywebcommunity.org/promos/">
-        <img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/>
-    </a>
 </p>
 
-- 👀 I’m interested in web development, data science, and machine learning
-
-- 👋 Hi, I’m @DonBos27
-- 🌱 I’m currently learning web development
-
-<!---
-DonBos27/DonBos27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
