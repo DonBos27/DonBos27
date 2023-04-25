@@ -17,7 +17,7 @@ Passionate software developer with a keen eye for detail and a love for problem-
 
 <p align="center">
     <a href="https://www.youtube.com/c/DevProTips">
-        <img width="32px" alt="Youtube" title="Youtube" src="hhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&psig=AOvVaw1kXTKul5sLvdxhH8XNIqan&ust=1682526731536000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiCuNO6xf4CFQAAAAAdAAAAABAE"/>
+        <img width="32px" alt="Youtube" title="Youtube" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&psig=AOvVaw1kXTKul5sLvdxhH8XNIqan&ust=1682526731536000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiCuNO6xf4CFQAAAAAdAAAAABAE"/>
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://twitter.com/DenverCoder1">
