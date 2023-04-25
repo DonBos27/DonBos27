@@ -8,7 +8,15 @@ Passionate software developer with a keen eye for detail and a love for problem-
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate on any project that will help me grow as a developer
 - ⚡ Fun fact: 
-    -**I love watching Animes and I'm a huge fan of soccer (Big Fan of FC BARCELONA)**
+    - I love watching Animes  
+    - I'm a huge fan of soccer
+
+## 🛠️ Languages and Tools:
+
+<!-- Languages and Tools section -->
+
+
+
 
 ## 📫 How to reach me
 
@@ -27,5 +35,6 @@ Passionate software developer with a keen eye for detail and a love for problem-
         <img width="32px" alt="Instagram" title="Instagram" src="images/instagramFooter.png"/>
     </a>
     <br/>
-    <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png"/>
 </p>
+<img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png"/> bosengad@gmail.com
+
