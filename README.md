@@ -74,11 +74,10 @@ Passionate software developer with a keen eye for detail and a love for problem-
     <a href="https://www.instagram.com/dbosenga/">
         <img width="32px" alt="Instagram" title="Instagram" src="images/instagramFooter.png"/>
     </a>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/dbosenga/">
-        <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />
-    </a>
-    <br/>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    
+[<img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />](mailto:bosengad@gmail.com)
+
 </p>
 
-[<img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />](mailto:bosengad@gmail.com)
+
