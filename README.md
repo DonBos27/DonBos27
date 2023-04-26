@@ -76,7 +76,9 @@ Passionate software developer with a keen eye for detail and a love for problem-
     </a>
         &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/dbosenga/">
-        <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png"/ >
+        <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />
     </a>
     <br/>
 </p>
+
+[<img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />](mailto:bosengad@gmail.com)
