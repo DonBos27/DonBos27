@@ -17,7 +17,7 @@ Passionate software developer with a keen eye for detail and a love for problem-
 
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Donatelo27&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donatelo27&layout=compact&theme=radical&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donatelo27&layout=compact&theme=radical&count_border=true" />
 </p>
 
 ## 🛠️ Languages and Tools:
