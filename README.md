@@ -16,6 +16,7 @@ Passionate software developer with a keen eye for detail and a love for problem-
 <!-- GitHub stats section -->
 
 <p align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donatelo27&layout=compact&theme=radical)
         
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Donatelo27&theme=radical)
