@@ -17,14 +17,13 @@ Passionate software developer with a keen eye for detail and a love for problem-
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Donatelo27&layout=compact&langs_count=16&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donatelo27&layout=compact&theme=radical)
         
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Donatelo27&theme=radical)
+
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Donatelo27&theme=rogue)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Donatelo27&theme=rogue) -->
 
 ## 🛠️ Languages and Tools:
 
