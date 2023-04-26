@@ -30,7 +30,7 @@ Passionate software developer with a keen eye for detail and a love for problem-
 <!-- Languages and Tools section -->
 
 <p align="center">
-    <img width="52px" alt="htmlCssJs" title="htmlCssJs" src="images/htmlCssJs.png"/>
+    <img width="52px" alt="htmlCssJs" title="htmlCssJs" src="images/html.svg"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img width="32px" alt="react" title="react" src="images/react.png"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
