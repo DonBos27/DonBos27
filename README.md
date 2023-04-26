@@ -16,15 +16,15 @@ Passionate software developer with a keen eye for detail and a love for problem-
 <!-- Languages and Tools section -->
 
 <p align="center">
-    <img width="32px" alt="htmlCssJs" title="htmlCssJs" src="images/htmlCssJs.png"/>
+    <img width="52px" alt="htmlCssJs" title="htmlCssJs" src="images/htmlCssJs.png"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img width="32px" alt="react" title="react" src="images/react.png"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img width="32px" alt="C#" title="C#" src="images/c#.png"/>
+    <img width="32px" alt="C#" title="C#" src="images/csharp.png"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img width="32px" alt="bootstrap" title="bootstrap" src="images/bootstrap.png"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img width="32px" alt="python" title="python" src="images/Logo.png"/>
+    <img width="32px" alt="python" title="python" src="images/pythonLogo.png"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img width="32px" alt="mysql" title="mysql" src="images/mySql.png"/>
     &#8287;&#8287;&#8287;&#8287;&#8287;
