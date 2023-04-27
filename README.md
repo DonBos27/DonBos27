@@ -11,12 +11,6 @@ Passionate ypung software developer with a keen eye for detail and a love for pr
   - I love watching Animes
   - I'm a huge fan of soccer
 
-## 📈 My GitHub Stats
-
-<!-- GitHub stats section -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27)](https://github.com/DonBos27/DonBos27)
-
 
 ## 🛠️ Languages and Tools:
 
@@ -81,10 +75,20 @@ Passionate ypung software developer with a keen eye for detail and a love for pr
 </p>
 
 
-## 📊 My Wakatime Stats
+## 📊 My Streak Stats
 
-<!-- Wakatime stats section -->
+<!-- Streak stats section -->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DonBos27&theme=radical" alt="my wakatime stats" width="420"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=radical" alt="my streak stats" width="420"/>
+</p>
+
+
+## 📊 My Contribution Stats
+
+<!-- Contribution stats section -->
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=radical" alt="my streak stats" width="420"/>        
 </p>
