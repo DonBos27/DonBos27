@@ -6,7 +6,7 @@ Passionate ypung software developer with a keen eye for detail and a love for pr
 
 - 👀 I’m interested in web development, mobile development, and machine learning
 - 🌱 I’m currently learning everything I can get my hands on 😄
-- 💞️ I’m looking to collaborate on any project that will help me grow as a developer and help me gain experience in the field of software development
+- 💞️ I’m looking to collaborate on any project that will help me grow as a developer
 - ⚡ Fun fact:
   - I love watching Animes
   - I'm a huge fan of soccer
