@@ -2,11 +2,11 @@
 
 ## Hi there, I’m Don Bosenga 👋
 
-Passionate software developer with a keen eye for detail and a love for problem-solving. Experienced in both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills.
+Passionate ypung software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills.
 
-- 👀 I’m interested in web development, mobile development, and machine learning
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on any project that will help me grow as a developer
+- 👀 I’m interested in web development, mobile development, and machine learning 
+- 🌱 I’m currently learning everything I can get my hands on 😄
+- 💞️ I’m looking to collaborate on any project that will help me grow as a developer and help me gain experience in the field of software development 
 - ⚡ Fun fact:
   - I love watching Animes
   - I'm a huge fan of soccer
@@ -15,25 +15,14 @@ Passionate software developer with a keen eye for detail and a love for problem-
 
 <!-- GitHub stats section -->
 
-<p align="center">
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donatelo27&layout=compact&theme=radical) -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donatelo27)](https://github.com/DonBos27/DonBos27)
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Donatelo27&theme=radical) -->
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Donatelo27&theme=rogue) -->
-
-</p>
 
 ## 🛠️ Languages and Tools:
 
 <!-- Languages and Tools section -->
 
 <p align="center">
-    <!-- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -->
-    <!-- <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
     <img  alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img  alt="CSS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -78,7 +67,24 @@ Passionate software developer with a keen eye for detail and a love for problem-
     <a href="mailto:bosengad@gmail.com">
         <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />
     </a>
+</p>
 
-<!-- [<img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />](mailto:bosengad@gmail.com) -->
 
+
+## 📊 My Github Stats
+
+<!-- GitHub stats section -->
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=radical" alt="languages" height="165">
+</p>
+
+
+## 📊 My Wakatime Stats
+
+<!-- Wakatime stats section -->
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DonBos27&theme=radical" alt="my wakatime stats" width="420"/>
 </p>
