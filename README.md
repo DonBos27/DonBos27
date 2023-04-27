@@ -2,7 +2,7 @@
 
 ## Hi there, I’m Don Bosenga 👋
 
-Passionate ypung software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills.
+Passionate young software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills.
 
 - 👀 I’m interested in web development, mobile development, and machine learning
 - 🌱 I’m currently learning everything I can get my hands on 😄
