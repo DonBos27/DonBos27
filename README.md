@@ -15,7 +15,7 @@ Passionate ypung software developer with a keen eye for detail and a love for pr
 
 <!-- GitHub stats section -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donatelo27)](https://github.com/DonBos27/DonBos27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27)](https://github.com/DonBos27/DonBos27)
 
 
 ## 🛠️ Languages and Tools:
@@ -76,7 +76,7 @@ Passionate ypung software developer with a keen eye for detail and a love for pr
 <!-- GitHub stats section -->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=radical" alt="languages" height="165">
 </p>
 
