@@ -1,16 +1,37 @@
 # About Me
 
-## Hi there, I’m Don Bosenga 👋
+## Hi, Hola, Hey, 你好, Olá, Bonjour, I’m Don Bosenga 👋
 
-Passionate young software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills.
+<!-- Passionate young software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills. -->
 
 - 👀 I’m interested in web development, mobile development, and machine learning
 - 🌱 I’m currently learning everything I can get my hands on 😄
 - 💞️ I’m looking to collaborate on any project that will help me grow as a developer
 - ⚡ Fun fact:
+
   - I love watching Animes
   - I'm a huge fan of soccer
   - I love playing video games
+
+## 📫 How to reach me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
+        <img width="32px" alt="Linkedin" title="Linkedin" src="images/linkedinFooter.png"/>
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/Donatelo27">
+        <img width="32px" alt="Twitter" title="Twitter" src="images/twitterFooter.png"/>
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.instagram.com/dbosenga/">
+        <img width="32px" alt="Instagram" title="Instagram" src="images/instagramFooter.png"/>
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="mailto:bosengad@gmail.com">
+        <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />
+    </a>
+</p>
 
 ## 🛠️ Languages and Tools:
 
@@ -36,27 +57,13 @@ Passionate young software developer with a keen eye for detail and a love for pr
     <img  alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img  alt="mySql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img  alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img  alt="Node JS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" />
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <img alt="tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg"  />
     <br />
-</p>
-
-## 📫 How to reach me
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
-        <img width="32px" alt="Linkedin" title="Linkedin" src="images/linkedinFooter.png"/>
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/Donatelo27">
-        <img width="32px" alt="Twitter" title="Twitter" src="images/twitterFooter.png"/>
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/dbosenga/">
-        <img width="32px" alt="Instagram" title="Instagram" src="images/instagramFooter.png"/>
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:bosengad@gmail.com">
-        <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />
-    </a>
 </p>
 
 ## 📊 My Github Stats
@@ -71,4 +78,9 @@ Passionate young software developer with a keen eye for detail and a love for pr
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=radical" alt="my streak stats" width="420"/>
+</p>
+
+## 📊 My Trophies
+<p>
+    <img src="https://github-profile-trophy.vercel.app/?username=DonBos27&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="my trophies" width="420"/>
 </p>
