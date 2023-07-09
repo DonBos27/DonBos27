@@ -91,8 +91,6 @@
 ## 🐍 Snake Game
 
 <div>
- </br>
-</br>
  
   ![Snake animation](https://github.com/DonBos27/DonBos27/blob/output/github-contribution-grid-snake.svg)
 
