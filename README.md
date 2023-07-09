@@ -90,8 +90,10 @@
 
 ## 🐍 Snake Game
 
-<p align="center">
+<div>
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/DonBos27/DonBos27/blob/output/github-contribution-grid-snake.svg)
 
-    ![Snake animation](https://github.com/DonBos27/DonBos27/blob/output/github-contribution-grid-snake.svg)
-
-</p>
+</div>
