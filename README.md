@@ -1,8 +1,7 @@
 # About Me
 
-## Hi, Bonjour, Hola, Olá, Hallo, Ciao, 你好, こんにちは, مرحبا ,
-
-## <p align="center">fdkhnkjlfnd</p>I’m Don Bosenga 👋
+## <p align="center">Hi, Bonjour, Hola, Olá, Hallo, Ciao, 你好, こんにちは, مرحبا </p>
+## <p align="center">I’m Don Bosenga 👋</p>
 
 <!-- Passionate young software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills. -->
 
