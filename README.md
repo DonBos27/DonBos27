@@ -2,11 +2,11 @@
 
 <!-- ## <p align="center">Hi, Bonjour, Hola, Olá, Hallo, Ciao, 你好, こんにちは, مرحبا </p>-->
 
-<p align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aladin&pause=1000&random=false&width=435&lines=Hi%2C+Bonjour%2C+Hola%2C+Ol%C3%A1%2C+Hallo%2C+Ciao%2C+%E4%BD%A0%E5%A5%BD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 ## <p align="center">I’m Don Bosenga 👋</p>
 
