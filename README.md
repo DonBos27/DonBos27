@@ -9,6 +9,9 @@
 </div>
 
 ## <p align="center">I’m Don Bosenga 👋</p>
+<img alt="background" title="background" src="images/Background.png"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20views&color=0e75b6&style=flat" alt="DonBos27" /> </p>
 
 <!-- Passionate young software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills. -->
 
@@ -98,8 +101,8 @@
 
 ## 🐍 Snake Animation
 
-<div>
- 
+<!-- <div>
+
   ![Snake animation](https://github.com/DonBos27/DonBos27/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</div> -->
