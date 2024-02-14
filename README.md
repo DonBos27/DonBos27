@@ -94,6 +94,16 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=radical" alt="my streak stats" width="420"/>
 </p>
 
+## 📊 My Contribution Stats
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=DonBos27&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="my contribution stats" width="420"/>
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=radical&border=7F3FBF&background=0D1117" alt="DonBos27"/>
+</p>
+
 ## 📊 My Trophies
 
 <p align="center">
