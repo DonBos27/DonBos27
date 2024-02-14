@@ -1,3 +1,5 @@
+<img alt="background" title="background" src="images/Background.png" border-radius= "50px"/>
+
 # About Me
 
 <!-- ## <p align="center">Hi, Bonjour, Hola, Olá, Hallo, Ciao, 你好, こんにちは, مرحبا </p>-->
@@ -9,7 +11,6 @@
 </div>
 
 ## <p align="center">I’m Don Bosenga 👋</p>
-<img alt="background" title="background" src="images/Background.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20views&color=0e75b6&style=flat" alt="DonBos27" /> </p>
 
@@ -99,7 +100,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DonBos27&row=2&column=3theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="my trophies" width="420"/>
 </p>
 
-## 🐍 Snake Animation
+<!-- ## 🐍 Snake Animation -->
 
 <!-- <div>
 
