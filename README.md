@@ -53,9 +53,16 @@
 
 ### Frameworks and Libraries
 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,fastapi,nextjs,nodejs,react,tailwind,vite)](https://skillicons.dev)
+
 ### Databases
 
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,mongodb)](https://skillicons.dev)
+
 ### Development Tools and Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,windows,apple)](https://skillicons.dev)
+
 
 <!-- <p align="center">
     <img  alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
