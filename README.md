@@ -45,9 +45,19 @@
     </a>
 </p>
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools I have used:
 
-<p align="center">
+### Programming & Scripting Languages
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs)](https://skillicons.dev)
+
+### Frameworks and Libraries
+
+### Databases
+
+### Development Tools and Platforms
+
+<!-- <p align="center">
     <img  alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <img  alt="CSS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -78,7 +88,7 @@
         &#8287;&#8287;&#8287;&#8287;&#8287;
     <img  alt="figma" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
     <br />
-</p>
+</p> -->
 
 ## 📊 My Github Stats
 
