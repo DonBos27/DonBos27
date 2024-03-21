@@ -31,9 +31,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Don%20Bosenga-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/don-bosenga-434862207/)
 
-[![Instagram](https://img.shields.io/instagram/dbosenga?style=social)](https://www.instagram.com/dbosenga/)
+[![Instagram](https://img.shields.io/instagram/dbosenga?style=social&logo=instagram)](https://www.instagram.com/dbosenga/)
 
-Email: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:bosengad@gmail.com)
+Email: [![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail)](mailto:bosengad@gmail.com)
 
 
 <!-- <p align="center">
