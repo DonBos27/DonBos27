@@ -21,7 +21,7 @@
 - 💞️ I’m looking to collaborate on any project that will help me grow as a developer
 - ⚡ Fun fact:
 
-  - I love watching Animes
+  - I love watching Animes 
   - I'm a huge fan of soccer
   - I love playing video games
 
@@ -29,26 +29,8 @@
 
 [![Gmail](https://img.shields.io/badge/-bosengad@gmail.com-white?style=flat&logo=gmail)](mailto:bosengad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Don%20Bosenga-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/don-bosenga-434862207/)
-[![Twitter](https://img.shields.io/twitter/follow/Donatelo27?style=social)](https://twitter.com/Donatelo27)
+[![Twitter](https://img.shields.io/twitter/Donatelo27?style=social)](https://twitter.com/Donatelo27)
 [![Instagram](https://img.shields.io/badge/-dbosenga-white?style=flat&logo=instagram)](https://www.instagram.com/dbosenga/)
-
-<!-- <p align="center">
-    <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
-        <img width="32px" alt="Linkedin" title="Linkedin" src="images/linkedinFooter.png"/>
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/Donatelo27">
-        <img width="32px" alt="Twitter" title="Twitter" src="images/twitterFooter.png"/>
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/dbosenga/">
-        <img width="32px" alt="Instagram" title="Instagram" src="images/instagramFooter.png"/>
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:bosengad@gmail.com">
-        <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />
-    </a>
-</p> -->
 
 ## 🛠️ Languages and Tools I have used:
 
