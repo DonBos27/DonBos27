@@ -29,9 +29,8 @@
 
 [![Gmail](https://img.shields.io/badge/-bosengad@gmail.com-white?style=flat&logo=gmail)](mailto:bosengad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Don%20Bosenga-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/don-bosenga-434862207/)
-[![Twitter](https://img.shields.io/twitter/Follow/Donatelo27?style=social)](https://twitter.com/Donatelo27)
+[![Twitter](https://img.shields.io/twitter/follow/Donatelo27?style=social)](https://twitter.com/Donatelo27)
 [![Instagram](https://img.shields.io/badge/-dbosenga-white?style=flat&logo=instagram)](https://www.instagram.com/dbosenga/)
-
 
 
 ## 🛠️ Languages and Tools I have used:
