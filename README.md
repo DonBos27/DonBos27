@@ -27,7 +27,13 @@
 
 ## 📫 How to reach me
 
-<p align="center">
+[![Twitter](https://img.shields.io/twitter/follow/Donatelo27?style=social)](https://twitter.com/Donatelo27)
+
+[![LinkedIn](https://img.shields.io/badge/-Don%20Bosenga-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/don-bosenga-434862207/)
+
+[![Instagram](https://img.shields.io/instagram/dbosenga?style=social)](https://www.instagram.com/dbosenga/)
+
+<!-- <p align="center">
     <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
         <img width="32px" alt="Linkedin" title="Linkedin" src="images/linkedinFooter.png"/>
     </a>
@@ -43,7 +49,7 @@
     <a href="mailto:bosengad@gmail.com">
         <img width="32px" alt="Gmail" title="Gmail" src="images/gmailFooter.png" />
     </a>
-</p>
+</p> -->
 
 ## 🛠️ Languages and Tools I have used:
 
@@ -62,40 +68,6 @@
 ### Development Tools and Platforms
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,windows,apple)](https://skillicons.dev)
-
-
-<!-- <p align="center">
-    <img  alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="CSS" width="30px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img alt="tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"  />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="bootstrap" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="Node JS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="CSharp" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-line.svg" />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="mySql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="firebase" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain-wordmark.svg" />
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        &#8287;&#8287;&#8287;&#8287;&#8287;
-    <img  alt="figma" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
-    <br />
-</p> -->
 
 ## 📊 My Github Stats
 
