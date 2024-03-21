@@ -27,13 +27,10 @@
 
 ## 📫 How to reach me
 
-[![Twitter](https://img.shields.io/twitter/follow/Donatelo27?style=social)](https://twitter.com/Donatelo27)
-
-[![LinkedIn](https://img.shields.io/badge/-Don%20Bosenga-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/don-bosenga-434862207/)
-
-[![Instagram](https://img.shields.io/badge/-dbosenga-white?style=flat&logo=instagram)](https://www.instagram.com/dbosenga/)
 [![Gmail](https://img.shields.io/badge/-bosengad@gmail.com-white?style=flat&logo=gmail)](mailto:bosengad@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/-Don%20Bosenga-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/don-bosenga-434862207/)
+[![Twitter](https://img.shields.io/twitter/follow/Donatelo27?style=social)](https://twitter.com/Donatelo27)
+[![Instagram](https://img.shields.io/badge/-dbosenga-white?style=flat&logo=instagram)](https://www.instagram.com/dbosenga/)
 
 <!-- <p align="center">
     <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
