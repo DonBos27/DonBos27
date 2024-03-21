@@ -33,6 +33,9 @@
 
 [![Instagram](https://img.shields.io/instagram/dbosenga?style=social)](https://www.instagram.com/dbosenga/)
 
+Email: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:bosengad@gmail.com)
+
+
 <!-- <p align="center">
     <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
         <img width="32px" alt="Linkedin" title="Linkedin" src="images/linkedinFooter.png"/>
