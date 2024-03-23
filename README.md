@@ -37,19 +37,19 @@
 
 ### Programming & Scripting Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs&perline=5)](https://skillicons.dev)
 
 ### Frameworks and Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,fastapi,nextjs,nodejs,react,tailwind,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,fastapi,nextjs,nodejs,react,tailwind,vite&perline=5)](https://skillicons.dev)
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,mongodb&perline=5)](https://skillicons.dev)
 
 ### Development Tools and Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,windows,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,pycharm,visualstudio,vscode,windows,apple&perline=5)](https://skillicons.dev)
 
 ## 📊 My Github Stats
 
