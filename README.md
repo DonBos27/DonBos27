@@ -53,7 +53,7 @@
 
 ## 📊 My Github Stats
 
-<p align="center">
+<p align="">
     <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=dracula" alt="my github stats" width="420"/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=radical" alt="languages" width="420"">
@@ -61,13 +61,13 @@
 
 ## 📊 My Streak Stats
 
-<p align="center">
+<p align="">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=radical" alt="my streak stats" width="420"/>
 </p>
 
 ## 📊 My Contribution Stats
 
-<p align="center">
+<p align="">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&theme=radical" alt="DonBos27"/>
 </p>
 
