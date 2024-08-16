@@ -79,7 +79,7 @@
 ## 🚀 Achievements Badges
 
 <p align="">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/VB7DQY5M?sharingId=356AF4ED9E4DD44B" style="display: inline-block; text-align: center; margin-right: 20px;">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/VB7DQY5M?sharingId=356AF4ED9E4DD44B" style="display: inline-block; text-align: center; margin-right: 0px;">
     <img 
         src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" 
         alt="Discover data analysis" 
