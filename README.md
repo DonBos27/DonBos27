@@ -32,7 +32,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/Donatelo27?style=social)](https://twitter.com/Donatelo27)
 [![Instagram](https://img.shields.io/badge/-dbosenga-white?style=flat&logo=instagram)](https://www.instagram.com/dbosenga/)
 
-
 ## 🛠️ Languages and Tools I have used:
 
 ### Programming & Scripting Languages
@@ -71,11 +70,20 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&theme=radical" alt="DonBos27"/>
 </p>
 
-## 📊 My Trophies
+## 🏆 My Trophies
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=DonBos27&row=2&column=3theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="my trophies" width="420"/>
 </p>
+
+## 🚀 Badge
+
+<a href="https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/6-summary#completion">
+    <img align="center" 
+        src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" 
+        alt="Discover data analysis" 
+        width="130"/>
+</a>
 
 <!-- ## 🐍 Snake Animation -->
 
