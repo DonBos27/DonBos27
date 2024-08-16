@@ -86,7 +86,7 @@
         width="130"
         style="vertical-align: middle;"
     />
-    <span style="vertical-align: middle;">Discover data analysis</span>
+    <span style="">Discover data analysis</span>
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/VB7DQY5M?sharingId=356AF4ED9E4DD44B"      style="display: inline-block; text-align: center;">
     <img 
@@ -95,7 +95,7 @@
         width="130"
         style="vertical-align: middle;"
     />
-    <span style="vertical-align: middle;">Discover data analysis</span>
+    <span style="">Discover data analysis</span>
   </a>
 </p>
 
