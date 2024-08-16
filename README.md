@@ -93,7 +93,7 @@
         src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" 
         alt="Discover data analysis" 
         width="130"
-        style="vertical-align: middle;"
+        style=""
     />
     <span style="">Discover data analysis</span>
   </a>
