@@ -78,7 +78,7 @@
 
 ## 🚀 Achievements Badges
 
-<div align="center">
+<span align="center">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/VB7DQY5M?sharingId=356AF4ED9E4DD44B">
       <img align="center" 
           src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" 
@@ -95,7 +95,7 @@
       />
       <p>Discover data analysis</p>
   </a>
-</div>
+</span>
 
 <!-- ## 🐍 Snake Animation -->
 
