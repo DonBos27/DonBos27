@@ -86,18 +86,7 @@
         width="130"
         style=""
     />
-    
   </a>
-  <!-- <span style="">Discover data analysis</span> -->
-  <!-- <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/VB7DQY5M?sharingId=356AF4ED9E4DD44B"      style="display: inline-block; ">
-    <img 
-        src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" 
-        alt="Discover data analysis" 
-        width="130"
-        style=""
-    />
-    <span style="">Discover data analysis</span>
-  </a> -->
 </p>
 
 <!-- ## 🐍 Snake Animation -->
