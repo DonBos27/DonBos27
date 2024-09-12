@@ -1,4 +1,4 @@
-<img alt="background" title="background" src="images/Background.png" border-radius= "50px"/>
+<img alt="background" title="background" src="images/BackGroundGithub.gif" border-radius= "50px"/>
 
 # About Me
 
