@@ -48,7 +48,7 @@
 
 ### Development Tools and Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,pycharm,visualstudio,vscode,windows,apple, figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,pycharm,visualstudio,vscode,windows,apple,figma&perline=5)](https://skillicons.dev)
 
 ## 📊 My Github Stats
 
