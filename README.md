@@ -87,6 +87,14 @@
         style=""
     />
   </a>
+    <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/7KCJFP8Z?sharingId=356AF4ED9E4DD44B" style="">
+    <img 
+        src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" 
+        alt="Discover data analysis" 
+        width="130"
+        style=""
+    />
+  </a>
 </p>
 
 <!-- ## 🐍 Snake Animation -->
