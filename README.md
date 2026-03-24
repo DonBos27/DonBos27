@@ -1,126 +1,122 @@
-<img alt="background" title="background" src="images/BackgroundGithubFinal.gif" style="border-radius: 20px;" />
+<img src="https://raw.githubusercontent.com/DonBos27/DonBos27/main/images/BackgroundGithubFinal.gif" style="width:100%; border-radius:20px;" />
 
-# 👨‍💻 About Me
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aladin&pause=1000&random=false&width=435&lines=Hi%2C+Bonjour%2C+Hola%2C+Ol%C3%A1%2C+Hallo%2C+Ciao%2C+%E4%BD%A0%E5%A5%BD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7)](https://git.io/typing-svg)
-
-## I’m Don Bosenga 👋
-
-<img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20Views&color=0e75b6&style=flat" alt="DonBos27" />
-
-</div>
-
-## 🏅 Highlights
+<h1 align="center">Hi 👋, I'm Don Bosenga</h1>
+<h3 align="center">🚀 Software Developer | 🤖 AI Enthusiast | 🛠 IT Audit Leader</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web,Mobile%20%26%20AI%20Development-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-AI-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role-IT%20Audit%20Leader-green?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-- 🔭 Working on real-world
-- 🌱 Currently learning **Artificial Intelligence Ecosystem**
-- 💡 Passionate about building scalable apps & solving real problems
-- 🤝 Open to collaborations on impactful tech projects
+---
 
-### ⚡ Fun Facts
+## 🧠 About Me
+
+<p align="center">
+Passionate about building <b>scalable applications</b> and solving real-world problems using <b>technology</b>.
+</p>
+
+- 🔭 Working on **enterprise systems & digital transformation**
+- 🌱 Learning **Artificial Intelligence & System Design**
+- 💡 Focused on **performance, UX, and real-world impact**
+- 🤝 Open to **collaborations & innovative projects**
+
+---
+
+## ⚡ Fun Side
 
 - 🎮 Gamer & Anime lover
-- ⚽ Big soccer fan (FC BARCELONA 🔵🔴)
+- ⚽ FC Barcelona fan 🔵🔴
 - 🧠 Always learning something new
 
-## 📫 Contact Me
+---
 
-<p align="">
+## 📫 Connect With Me
+
+<p align="center">
   <a href="mailto:bosengad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bosengad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
-    <img src="https://img.shields.io/badge/LinkedIn-Don%20Bosenga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f1f1f" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Don%20Bosenga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/Donatelo27">
-    <img src="https://img.shields.io/badge/X-@Donatelo27-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1f1f1f" alt="X"/>
+    <img src="https://img.shields.io/badge/X-@Donatelo27-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/dbosenga/">
-    <img src="https://img.shields.io/badge/Instagram-@dbosenga-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1f1f1f" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-@dbosenga-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-## 🛠️ Languages and Tools I have used:
+---
 
-### 💻 Programming & Scripting Languages
+## 🛠️ Tech Stack
 
-<p align="">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs"/>
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
 </p>
 
-### ⚙️ Frameworks and Libraries
+### ⚙️ Frameworks
 
-<p align="">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,fastapi&perline=5"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,fastapi" />
 </p>
 
 ### 🗄️ Databases
 
-<p align="">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,appwrite" />
 </p>
 
-### 🧰 Development Tools and Platforms
-
-<p align="">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=tokyonight" alt="DonBos27"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=tokyonight" alt="DonBos27"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=tokyonight" alt="DonBos27"/>
-</p>
-
-## 📊 My Contribution Stats
-
-<p align="">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&layout=compact&theme=tokyonight" alt="DonBos27"/>
-</p>
-
-## 🚀 Achievements Badges
-
-<p align="">
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/VB7DQY5M?sharingId=356AF4ED9E4DD44B" style="">
-    <img 
-        src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" 
-        alt="Discover data analysis" 
-        width="130"
-        style=""
-    />
-  </a>
-    <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/7KCJFP8Z?sharingId=356AF4ED9E4DD44B" style="">
-    <img 
-        src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" 
-        alt="Discover data analysis" 
-        width="130"
-        style=""
-    />
-  </a>
-      <a href="https://www.kaggle.com/certification/badges/donbosenga/30" style="">
-    <img 
-        src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" 
-        alt="Discover data analysis" 
-        width="130"
-        style=""
-    />
-  </a>
-</p>
-
-## 🐍 Snake Animation
+### 🧰 Tools
 
 <p align="center">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&theme=tokyonight" />
+</p>
+
+---
+
+## 🏅 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-Advanced-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile%20Development-Active-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-snake-dark.svg" />
+</p>
+
+---
+
+## 🚀 Quote
+
+<p align="center">
+<i>"Build things that matter. Solve problems that exist."</i>
 </p>
