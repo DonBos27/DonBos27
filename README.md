@@ -16,7 +16,7 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 </p>
 
 - 🔭 Working on **enterprise systems & digital transformation**
-- 🌱 Learning **Artificial Intelligence & System Design**
+- 🌱 Learning **Artificial Intelligence**
 - 💡 Focused on **performance, UX, and real-world impact**
 - 🤝 Open to **collaborations & innovative projects**
 
