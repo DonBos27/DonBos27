@@ -15,7 +15,7 @@
 ## 🏅 Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20AI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Web,Mobile%20%26%20AI%20Development-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-AI-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Role-IT%20Audit%20Leader-green?style=for-the-badge"/>
 </p>
@@ -104,6 +104,14 @@
     <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/7KCJFP8Z?sharingId=356AF4ED9E4DD44B" style="">
     <img 
         src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" 
+        alt="Discover data analysis" 
+        width="130"
+        style=""
+    />
+  </a>
+      <a href="https://www.kaggle.com/certification/badges/donbosenga/30" style="">
+    <img 
+        src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" 
         alt="Discover data analysis" 
         width="130"
         style=""
