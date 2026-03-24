@@ -49,12 +49,12 @@
 
 ## 🛠️ Languages and Tools I have used:
 
-### 💻 Languages
+### 💻 Programming & Scripting Languages
 <p align="">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs"/>
 </p>
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks and Libraries
 <p align="">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,fastapi&perline=5"/>
 </p>
@@ -64,17 +64,19 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
 </p>
 
-### 🧰 Tools
+### 🧰 Development Tools and Platforms
 <p align="">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 </p>
 
-## 📊 My Github Stats
+## 📊 GitHub Stats
 
-<p align="">
-    <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=dracula" alt="my github stats" width="420"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=radical" alt="languages" width="420"">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 📊 My Streak Stats
