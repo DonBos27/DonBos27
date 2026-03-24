@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/DonBos27/DonBos27/main/images/BackgroundGithubFinal.gif" style="width:100%; border-radius:20px;" />
 
 <h1 align="center">Hi 👋, I'm Don Bosenga</h1>
-<h3 align="center">🚀 Software Developer | 🤖 AI Enthusiast | 🛠 IT Audit Leader</h3>
+<h3 align="center">🚀 Software Developer | 🤖 AI Enthusiast | 🛠 IT Audit Leader | 😮‍💨 Vibe Coder </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -77,32 +77,44 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 
 ---
 
+## 🎯 Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-SideWork-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IT%20Auditor-Active-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<p align="">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/VB7DQY5M?sharingId=356AF4ED9E4DD44B">
+    <img src="https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft.svg" width="130"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/DonBosenga-9264/7KCJFP8Z?sharingId=356AF4ED9E4DD44B">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" width="130"/>
+  </a>
+
+  <a href="https://www.kaggle.com/certification/badges/donbosenga/30">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" width="130"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=tokyonight" />
+ <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Overview
-
-<p align="">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏅 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-Active-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mobile%20Development-Active-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-orange?style=for-the-badge"/>
 </p>
 
 ---
