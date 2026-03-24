@@ -14,12 +14,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20views&color=0e75b6&style=flat" alt="DonBos27" /> </p>
 
-
 <p align="center">
 🚀 Web Developer | 📊 AI Student | 🛠 IT Audit Leader
 </p>
 
-- 🔭 Working on real-world 
+- 🔭 Working on real-world
 - 🌱 Currently learning **Artificial Intelligence Ecosystem**
 - 💡 Passionate about building scalable apps & solving real problems
 - 🤝 Open to collaborations on impactful tech projects
@@ -50,21 +49,25 @@
 ## 🛠️ Languages and Tools I have used:
 
 ### 💻 Programming & Scripting Languages
+
 <p align="">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs"/>
 </p>
 
 ### ⚙️ Frameworks and Libraries
+
 <p align="">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,fastapi&perline=5"/>
 </p>
 
 ### 🗄️ Databases
+
 <p align="">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
 </p>
 
 ### 🧰 Development Tools and Platforms
+
 <p align="">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 </p>
@@ -85,12 +88,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&layout=compact&theme=tokyonight" alt="DonBos27"/>
 </p>
 
-## 🏅 Developer Highlights
+## 🏅 Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-Active-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile%20Development-Learning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-AI-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-IT%20Audit%20Leader-green?style=for-the-badge"/>
 </p>
 
 ## 🚀 Achievements Badges
@@ -114,19 +117,8 @@
   </a>
 </p>
 
-## 🐍 Snake Animation
+## 🐍 Contribution Snake
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake.svg"/>
+</p>
