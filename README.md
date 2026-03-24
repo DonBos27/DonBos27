@@ -72,17 +72,17 @@
 ## 📊 GitHub Stats
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=tokyonight" alt="DonBos27"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=tokyonight" alt="DonBos27"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=tokyonight" alt="DonBos27"/>
 </p>
 
 ## 📊 My Contribution Stats
 
 <p align="">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&theme=radical" alt="DonBos27"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&layout=compact&theme=tokyonight" alt="DonBos27"/>
 </p>
 
 ## 🏅 Developer Highlights
