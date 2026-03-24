@@ -2,11 +2,13 @@
 
 # 👨‍💻 About Me
 
-<p align="center">
+<!-- ## <p align="center">Hi, Bonjour, Hola, Olá, Hallo, Ciao, 你好, こんにちは, مرحبا </p>-->
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aladin&pause=1000&random=false&width=435&lines=Hi%2C+Bonjour%2C+Hola%2C+Ol%C3%A1%2C+Hallo%2C+Ciao%2C+%E4%BD%A0%E5%A5%BD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7)](https://git.io/typing-svg)
 
-</p>
+</div>
 
 ## <p align="center">I’m Don Bosenga 👋</p>
 
@@ -47,21 +49,25 @@
 
 ## 🛠️ Languages and Tools I have used:
 
-### Programming & Scripting Languages
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs"/>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs&perline=5)](https://skillicons.dev)
+### ⚙️ Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,fastapi"/>
+</p>
 
-### Frameworks and Libraries
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,appwrite"/>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,fastapi,vite&perline=5)](https://skillicons.dev)
-
-### Databases
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,postgres,mongodb,appwrite&perline=5)](https://skillicons.dev)
-
-### Development Tools and Platforms
-
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,pycharm,visualstudio,vscode,windows,apple,figma&perline=5)](https://skillicons.dev)
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+</p>
 
 ## 📊 My Github Stats
 
