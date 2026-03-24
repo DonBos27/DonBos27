@@ -16,14 +16,23 @@
 
 <!-- Passionate young software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills. -->
 
-- 👀 I’m interested in web development, mobile development, and machine learning
-- 🌱 I’m currently learning everything I can get my hands on 😄
-- 💞️ I’m looking to collaborate on any project that will help me grow as a developer
-- ⚡ Fun fact:
+## 👨‍💻 About Me
 
-  - I love watching Animes
-  - I'm a huge fan of soccer
-  - I love playing video games
+<p align="center">
+I’m <b>Don Bosenga</b> 👋 <br/>
+🚀 Software Developer | 📊 AI Student | 🛠 IT Audit Leader
+</p>
+
+- 🔭 Working on real-world enterprise systems (LMC)
+- 🌱 Currently learning **AI, Backend, and System Design**
+- 💡 Passionate about building scalable apps & solving real problems
+- 🤝 Open to collaborations on impactful tech projects
+
+### ⚡ Fun Facts
+
+- 🎮 Gamer & Anime lover
+- ⚽ Big soccer fan
+- 🧠 Always learning something new
 
 ## 📫 Contact Me
 
