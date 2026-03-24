@@ -73,8 +73,7 @@
 ## 🏆 My Trophies
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-profile-trophy.svg"
+<img src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/trophy.svg" 
     alt="my trophies"
     width="420"
   />
