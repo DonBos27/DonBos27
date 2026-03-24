@@ -72,16 +72,23 @@
 
 ## 🏆 My Trophies
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img
     src="https://github-profile-trophy.vercel.app/username=DonBos27&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true"
     alt="my trophies"
     width="420"
   /> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DonBos27&theme=onedark)](https://github.com/DonBos27/github-profile-trophy)
+## 🏆 My Trophies
 
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=DonBos27&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true"
+    alt="my trophies"
+    width="420"
+  />
 </p>
+<!-- </p> -->
 
 ## 🚀 Achievements Badges
 
