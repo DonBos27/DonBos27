@@ -72,11 +72,8 @@
 
 ## 🏆 My Trophies
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/trophy.svg" 
-    alt="my trophies"
-    width="420"
-  />
+<p align="">
+    <img src="https://github-profile-trophy.vercel.app/?username=DonBos27&theme=radical" alt="DonBos27"/>
 </p>
 
 ## 🏅 Developer Highlights
