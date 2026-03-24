@@ -1,37 +1,31 @@
 <img alt="background" title="background" src="images/BackgroundGithubFinal.gif" border-radius= "50px"/>
 
-# About Me
+# 👨‍💻 About Me
 
-<!-- ## <p align="center">Hi, Bonjour, Hola, Olá, Hallo, Ciao, 你好, こんにちは, مرحبا </p>-->
-
-<div align="center">
+<p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aladin&pause=1000&random=false&width=435&lines=Hi%2C+Bonjour%2C+Hola%2C+Ol%C3%A1%2C+Hallo%2C+Ciao%2C+%E4%BD%A0%E5%A5%BD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7)](https://git.io/typing-svg)
 
-</div>
+</p>
 
 ## <p align="center">I’m Don Bosenga 👋</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20views&color=0e75b6&style=flat" alt="DonBos27" /> </p>
 
-<!-- Passionate young software developer with a keen eye for detail and a love for problem-solving. Learning both front-end and back-end development, with a particular interest in building dynamic, responsive user interfaces. Committed to staying up-to-date with the latest technologies and always seeking out new ways to enhance my skills. -->
-
-## 👨‍💻 About Me
 
 <p align="center">
-I’m <b>Don Bosenga</b> 👋 <br/>
-🚀 Software Developer | 📊 AI Student | 🛠 IT Audit Leader
+🚀 Web Developer | 📊 AI Student | 🛠 IT Audit Leader
 </p>
 
-- 🔭 Working on real-world enterprise systems (LMC)
-- 🌱 Currently learning **AI, Backend, and System Design**
+- 🔭 Working on real-world 
+- 🌱 Currently learning **Artificial Intelligence Ecosystem**
 - 💡 Passionate about building scalable apps & solving real problems
 - 🤝 Open to collaborations on impactful tech projects
 
 ### ⚡ Fun Facts
 
 - 🎮 Gamer & Anime lover
-- ⚽ Big soccer fan
+- ⚽ Big soccer fan (FC BARCELONA 🔵🔴)
 - 🧠 Always learning something new
 
 ## 📫 Contact Me
