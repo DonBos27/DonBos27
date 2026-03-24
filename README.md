@@ -50,22 +50,22 @@
 ## 🛠️ Languages and Tools I have used:
 
 ### 💻 Languages
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs"/>
 </p>
 
 ### ⚙️ Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,fastapi"/>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,fastapi&perline=5"/>
 </p>
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,appwrite"/>
+<p align="">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
 </p>
 
 ### 🧰 Tools
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 </p>
 
