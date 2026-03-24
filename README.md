@@ -1,4 +1,4 @@
-<img alt="background" title="background" src="images/BackgroundGithubFinal.gif" border-radius= "50px"/>
+<!-- <img alt="background" title="background" src="images/BackgroundGithubFinal.gif" border-radius= "50px"/>
 
 # 👨‍💻 About Me
 
@@ -10,7 +10,21 @@
 
 ## <p align="center">I’m Don Bosenga 👋</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20views&color=0e75b6&style=flat" alt="DonBos27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20views&color=0e75b6&style=flat" alt="DonBos27" /> </p> -->
+
+<img alt="background" title="background" src="images/BackgroundGithubFinal.gif" style="border-radius: 20px;" />
+
+# 👨‍💻 About Me
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Aladin&pause=1000&random=false&width=435&lines=Hi%2C+Bonjour%2C+Hola%2C+Ol%C3%A1%2C+Hallo%2C+Ciao%2C+%E4%BD%A0%E5%A5%BD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7)](https://git.io/typing-svg)
+
+## I’m Don Bosenga 👋
+
+<img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20Views&color=0e75b6&style=flat" alt="DonBos27" />
+
+</div>
 
 ## 🏅 Highlights
 
@@ -35,6 +49,20 @@
 
 <p align="center">
   <a href="mailto:bosengad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-bosengad%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
+    <img src="https://img.shields.io/badge/LinkedIn-Don%20Bosenga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f1f1f" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Donatelo27">
+    <img src="https://img.shields.io/badge/X-@Donatelo27-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1f1f1f" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/dbosenga/">
+    <img src="https://img.shields.io/badge/Instagram-@dbosenga-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1f1f1f" alt="Instagram"/>
+  </a>
+</p>
+<!-- <p align="center">
+  <a href="mailto:bosengad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
@@ -46,7 +74,7 @@
   <a href="https://www.instagram.com/dbosenga/">
     <img src="https://img.shields.io/badge/Instagram-@dbosenga-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
+</p> -->
 
 ## 🛠️ Languages and Tools I have used:
 
@@ -121,7 +149,12 @@
 
 ## 🐍 Snake Animation
 
-<picture>
+<!-- ## 🐍 Snake Animation -->
+
+<p align="center">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-snake-dark.svg" />
+</p>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake-dark.svg"
@@ -134,4 +167,4 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture> -->
