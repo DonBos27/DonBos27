@@ -72,15 +72,6 @@
 
 ## 🏆 My Trophies
 
-<!-- <p align="center"> -->
-  <!-- <img
-    src="https://github-profile-trophy.vercel.app/username=DonBos27&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true"
-    alt="my trophies"
-    width="420"
-  /> -->
-
-## 🏆 My Trophies
-
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=DonBos27&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true"
@@ -88,7 +79,14 @@
     width="420"
   />
 </p>
-<!-- </p> -->
+
+## 🏅 Developer Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-Active-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20Development-Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=for-the-badge" />
+</p>
 
 ## 🚀 Achievements Badges
 
