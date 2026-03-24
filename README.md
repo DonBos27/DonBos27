@@ -25,12 +25,22 @@
   - I'm a huge fan of soccer
   - I love playing video games
 
-## 📫 How to reach me
+## 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-bosengad@gmail.com-white?style=flat&logo=gmail)](mailto:bosengad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Don%20Bosenga-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/don-bosenga-434862207/)
-[![Twitter](https://img.shields.io/twitter/follow/Donatelo27?style=social)](https://twitter.com/Donatelo27)
-[![Instagram](https://img.shields.io/badge/-dbosenga-white?style=flat&logo=instagram)](https://www.instagram.com/dbosenga/)
+<p align="center">
+  <a href="mailto:bosengad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/don-bosenga-434862207/">
+    <img src="https://img.shields.io/badge/LinkedIn-Don%20Bosenga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Donatelo27">
+    <img src="https://img.shields.io/badge/Twitter-@Donatelo27-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/dbosenga/">
+    <img src="https://img.shields.io/badge/Instagram-@dbosenga-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ## 🛠️ Languages and Tools I have used:
 
