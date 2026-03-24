@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-<p align="center">
+<p align="">
 Passionate about building <b>scalable applications</b> and solving real-world problems using <b>technology</b>.
 </p>
 
@@ -53,25 +53,25 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 
 ### 💻 Languages
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs" />
 </p>
 
 ### ⚙️ Frameworks
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,fastapi" />
 </p>
 
 ### 🗄️ Databases
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,appwrite" />
 </p>
 
 ### 🧰 Tools
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
@@ -79,7 +79,7 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=tokyonight" />
@@ -91,8 +91,8 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 
 ## 📈 Contribution Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&theme=tokyonight" />
+<p align="">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 ## 🏅 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Development-Advanced-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Development-Active-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Mobile%20Development-Active-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-orange?style=for-the-badge"/>
 </p>
@@ -110,7 +110,7 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-snake.svg" />
 </p>
 
 ---
