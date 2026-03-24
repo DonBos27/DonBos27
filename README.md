@@ -73,7 +73,11 @@
 ## 🏆 My Trophies
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=DonBos27&row=2&column=3theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="my trophies" width="420"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=DonBos27&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true"
+    alt="my trophies"
+    width="420"
+  />
 </p>
 
 ## 🚀 Achievements Badges
@@ -101,6 +105,6 @@
 
 <div>
 
-  ![Snake animation](https://github.com/DonBos27/DonBos27/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DonBos27/DonBos27/blob/output/github-contribution-grid-snake.svg)
 
 </div>
