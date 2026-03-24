@@ -2,8 +2,6 @@
 
 # 👨‍💻 About Me
 
-<!-- ## <p align="center">Hi, Bonjour, Hola, Olá, Hallo, Ciao, 你好, こんにちは, مرحبا </p>-->
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Aladin&pause=1000&random=false&width=435&lines=Hi%2C+Bonjour%2C+Hola%2C+Ol%C3%A1%2C+Hallo%2C+Ciao%2C+%E4%BD%A0%E5%A5%BD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7)](https://git.io/typing-svg)
@@ -14,8 +12,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DonBos27&label=Profile%20views&color=0e75b6&style=flat" alt="DonBos27" /> </p>
 
+## 🏅 Highlights
+
 <p align="center">
-🚀 Web Developer | 📊 AI Student | 🛠 IT Audit Leader
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20AI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-AI-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-IT%20Audit%20Leader-green?style=for-the-badge"/>
 </p>
 
 - 🔭 Working on real-world
@@ -88,14 +90,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&layout=compact&theme=tokyonight" alt="DonBos27"/>
 </p>
 
-## 🏅 Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-AI-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role-IT%20Audit%20Leader-green?style=for-the-badge"/>
-</p>
-
 ## 🚀 Achievements Badges
 
 <p align="">
@@ -117,8 +111,19 @@
   </a>
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake.svg"/>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/DonBos27/DonBos27/output/github-contribution-grid-snake.svg"
+  />
+</picture>
