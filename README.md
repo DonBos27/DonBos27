@@ -66,7 +66,7 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 ### 🗄️ Databases
 
 <p align="">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,appwrite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 </p>
 
 ### 🧰 Tools
