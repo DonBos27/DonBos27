@@ -107,11 +107,17 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonBos27&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonBos27&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DonBos27&theme=tokyonight)
+<p align="">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DonBos27&layout=compact&theme=tokyonight" />
+ <br/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DonBos27&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DonBos27&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
