@@ -107,16 +107,16 @@ Passionate about building <b>scalable applications</b> and solving real-world pr
 
 ## 📊 GitHub Analytics
 
-<p align="">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DonBos27&layout=compact&theme=tokyonight" />
- <br/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DonBos27&layout=compact&theme=tokyonight" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DonBos27&theme=tokyonight" alt="Languages by repository" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DonBos27&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DonBos27&theme=tokyonight" alt="Languages by commits" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBos27&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DonBos27&theme=tokyonight" alt="GitHub statistics" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=DonBos27&theme=tokyonight" alt="GitHub contribution streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonBos27&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
 ---
